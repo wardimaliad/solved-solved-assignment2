@@ -1,0 +1,4 @@
+Download Link: https://assignmentchef.com/product/solved-solved-assignment2
+<br>
+1. Write a statement that prints the number of characters in a String object called myString. ( 1pt) 2. Assuming that a Random object has been created called generator, what is the range of the result of each of the following expressions? (2 pts) a. generator.nextInt(20) b. generator.nextInt(100) -50 3. Write code statements to create a DecimalFormat object that will round a formatted value to four decimal places. Then write a statement that uses that object to print the value of the result, properly formatted. (2 pts) Write a complete Java program in a source file to be named Assignment2.java. The program prints out the following menu to a user, using ‘t’ (tabs) and ‘
+’ (newline), and print or println methods of System.out: Welcome to the In-N-Out Burger menu: —————————————————— Hamburger $2.75 Cheeseburger $3.25 French Fries $2.50 Shake &amp; Beverage: $1.50 Then prompts the user:
